@@ -8,3 +8,4 @@ import com.bridgelabz.crud.example.entity.Greeting;
 public interface GreetingRepository extends CrudRepository<Greeting,Integer>{
 
 }
+ 
